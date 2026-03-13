@@ -31,7 +31,7 @@ You need [Raylib](https://www.raylib.com/) installed before building.
 1. Install raylib: `brew install raylib`
 2. Clone the repo: `git clone https://github.com/Ayush-Bish1/Minecraft-Clone-cpp`
 3. Go into the folder: `cd Minecraft-Clone-cpp`
-4. Compile: `bash build.sh`
+4. Compile: `bash buildmac.sh`
 5. Run: `./main`
 
 ## Controls
