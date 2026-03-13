@@ -24,14 +24,14 @@ You need [Raylib](https://www.raylib.com/) installed before building.
 1. Install raylib from [raylib.com](https://www.raylib.com/)
 2. Download the repo as ZIP → extract it
 3. Open in VS Code or any IDE with MinGW/GCC
-4. Compile: `g++ main.cpp -o main -lraylib -lopengl32 -lgdi32 -lwinmm`
+4. Compile: `build.bat`
 5. Run `main.exe`
 
 ## Mac
 1. Install raylib: `brew install raylib`
 2. Clone the repo: `git clone https://github.com/Ayush-Bish1/Minecraft-Clone-cpp`
 3. Go into the folder: `cd Minecraft-Clone-cpp`
-4. Compile: `g++ main.cpp -o main -lraylib -framework OpenGL -framework Cocoa`
+4. Compile: `bash build.sh`
 5. Run: `./main`
 
 ## Controls
