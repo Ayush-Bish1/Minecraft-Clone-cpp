@@ -72,7 +72,7 @@ int main(){
         int cy = GetScreenHeight()/2;
         int size = 10;
 
-        // ── GRAVITY & JUMPING ──────────────────────────────────────
+        // --- GRAVITY & JUMPING ---------------------------
         velY += gravity * dt;
         camera.position.y += velY * dt;
         camera.target.y   += velY * dt;
@@ -121,10 +121,10 @@ int main(){
             velY = 0.0f;
         }
 
-        // ── CAMERA (horizontal movement only) ─────────────────────
+        // --- CAMERA (horizontal movement only) -------------------
         UpdateCamera(&camera, CAMERA_FIRST_PERSON);
 
-        // ── RAYCASTING ────────────────────────────────────────────
+        // --- RAYCASTING ------------------------------------------
         Ray ray = GetMouseRay({(float)cx, (float)cy}, camera);
         RayCollision closestHit = {0};
         closestHit.distance = 99999.0f;
@@ -147,7 +147,7 @@ int main(){
             }
         }
 
-        // ── BREAK & PLACE ─────────────────────────────────────────
+        // --- BREAK & PLACE --------------------------------------------
         if(closestHit.hit && closestHit.distance < 5.0f){
             if(IsMouseButtonPressed(MOUSE_LEFT_BUTTON))
                 blocks[bx][by][bz] = 0;
@@ -160,7 +160,7 @@ int main(){
             }
         }
 
-        // ── DRAW ──────────────────────────────────────────────────
+        // --- DRAW -------------------------------------------------------------
         BeginDrawing();
         ClearBackground(SKYBLUE);
         BeginMode3D(camera);
