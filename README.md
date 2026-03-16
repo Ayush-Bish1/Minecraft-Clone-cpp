@@ -42,4 +42,8 @@ You need [Raylib](https://www.raylib.com/) installed before building.
 - Left click - Place block
 - Right click - Break block
 
-# Thank You.
+## Project's Future:
+This project taught me a lot of things about game development but never the less the project is really hard for me to complete on my own with such a niche varity of skills. So for now i stop commiting towards this project and building something else; when i get the right skills I will make sure to complete it.
+
+# Thank You
+
