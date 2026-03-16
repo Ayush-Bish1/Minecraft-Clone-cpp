@@ -39,11 +39,11 @@ You need [Raylib](https://www.raylib.com/) installed before building.
 - Mouse - Look around
 - Space - Jump
 - 1/2/3/4 - Select block
-- Left click - Place block
-- Right click - Break block
+- Left click - Break block
+- Right click - Place block
 
 ## Project's Future:
-This project taught me a lot of things about game development but never the less the project is really hard for me to complete on my own with such a niche varity of skills. So for now i stop commiting towards this project and building something else; when i get the right skills I will make sure to complete it.
+This project taught me a lot of things about game development in general i.e Physics, Rendering, collisions but never the less the project is really not in the scope of my niche varity of skills. So for now I stop commiting towards this project and building something else; when I get the right skills I will make sure to complete it.
 
 # Thank You
 
