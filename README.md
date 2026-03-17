@@ -8,6 +8,12 @@ As of Right Now the project only includes one chunk and few blocks list as follo
 3) Wood
 4) Cobblestone
 
+# Video 
+If you are interested in how this project works 
+Check out my video:
+
+https://youtu.be/dEtsw2Cfqhg?si=F_UMBmDYdqcDjaWT
+
 # To install it on your device make sure you follow these steps:
 
 ## Dependencies
@@ -43,7 +49,7 @@ You need [Raylib](https://www.raylib.com/) installed before building.
 - Right click - Place block
 
 ## Project's Future:
-This project taught me a lot of things about game development in general i.e Physics, Rendering, collisions but never the less the project is really not in the scope of my niche varity of skills. So for now I stop commiting towards this project and building something else; when I get the right skills I will make sure to complete it.
+This project taught me a lot of things about game development in general i.e Physics, Rendering, collisions but never the less the project is really not in the scope of my niche variety of skills. So for now I stop commiting towards this project and building something else; when I get the right skills I will make sure to complete it.
 
 # Thank You
 
