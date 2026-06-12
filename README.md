@@ -8,12 +8,6 @@ As of Right Now the project only includes one chunk and few blocks list as follo
 3) Wood
 4) Cobblestone
 
-# Video 
-If you are interested in how this project works 
-Check out my video:
-
-https://youtu.be/dEtsw2Cfqhg?si=F_UMBmDYdqcDjaWT
-
 # To install it on your device make sure you follow these steps:
 
 ## Dependencies
