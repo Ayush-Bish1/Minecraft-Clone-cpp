@@ -8,6 +8,12 @@ As of Right Now the project only includes one chunk and few blocks list as follo
 3) Wood
 4) Cobblestone
 
+## Screenshots
+
+![Gameplay](images/photo1.png)
+![Building](images/photo2.png)
+
+
 # To install it on your device make sure you follow these steps:
 
 ## Dependencies
